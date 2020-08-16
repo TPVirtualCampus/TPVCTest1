@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: isomerpages/isomerpages-template@next-gen
+remote_theme: isomerpages/isomerpages-template@next-gen
 plugins:
   - jekyll-feed
   - jekyll-assets
