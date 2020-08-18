@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Government Technology Agency
-title-abbreviated: GovTech
+title: TP Virtual Campus
+title-abbreviated: TPVC
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Empowering our nation through technology. From transforming the delivery of Government Digital Services to building Smart Nation Infrastructure, 
-  GovTech uses technology to improve the lives of everyone in Singapore.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.tech.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
@@ -55,7 +54,7 @@ paginate: 12
 paginate_path: "/media/page:num"
 
 # Feedback Form URL
-feedback_form_url: "https://form.gov.sg/#!/forms/govtech/5bda9d7df5a907000fd1b76e"
+feedback_form_url: ""
 
 # Site configuration for Blueprint
 ##################################
@@ -67,10 +66,10 @@ homepage_resources: true
 homepage_careers: false
 
 # Custom CSS file path
-custom_css_path: "/do-not-touch/theme-colors/custom.css"
+custom_css_path: "/do_not_touch/theme-colours/custom.scss"
 custom_print_css_path: "/assets/css/print.css"
 
-google-tag-manager: GTM-KJNR9MC
+#google-tag-manager: GTM-KJNR9MC
 
 # Isomer recommender system - only works for simple-page, leftnav-page, and post
 recommender: true
