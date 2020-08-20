@@ -67,7 +67,7 @@ homepage_resources: true
 homepage_careers: false
 
 # Custom CSS file path
-custom_css_path: '/do_not_touch/theme-colours/custom.scss'
+custom_css_path: "/do_not_touch/theme-colours/custom.scss"
 custom_print_css_path: "/assets/css/print.css"
 
 #google-tag-manager: GTM-KJNR9MC
