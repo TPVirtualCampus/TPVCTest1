@@ -22,7 +22,7 @@ ask-jamie: non-empty string
 # Hero Banner
 hero-title: Responding to COVID-19 with Tech
 hero-subtitle:
-hero-banner: /images/hero-banner-covid.jpg
+hero-banner: download.jpeg
 
 #Call to Action Button
 button:
