@@ -11,7 +11,7 @@ permalink: /
 favicon: /images/favicon-govtech.ico
 
 # Agency logo
-agency-logo: /images/logo_govtech_hort.gif
+agency-logo: /images/download1.jpg
 
 # Google analytics
 #google-analytics: UA-82296306-1
